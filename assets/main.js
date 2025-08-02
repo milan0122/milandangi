@@ -3,10 +3,8 @@
 new Typed('#typed', {
     strings: [
         'Machine Learning Engineer',
-        'AI Solutions Architect', 
         'Data Scientist',
-        'Deep Learning Specialist',
-        'MLOps Engineer'
+        ' Learning MLOps'
     ],
     typeSpeed: 60,
     backSpeed: 40,
